@@ -12,7 +12,7 @@ If you don't trust this bot:
 This bot helps you generate Pyrogram and Telethon string sessions.
 For safety, always use a secondary account.
 
-Managed by @ArchAssociation
+Managed by @JEHRELA_PAPA
     """
 
     home_buttons = [
@@ -31,7 +31,7 @@ Managed by @ArchAssociation
             InlineKeyboardButton("How to use me", callback_data="help"),
             InlineKeyboardButton("About", callback_data="about")
         ],
-        [InlineKeyboardButton("Support", url="https://t.me/ArchAssociation")]
+        [InlineKeyboardButton("Support", url="https://t.me/JEHRELAxDEVELOPER")]
     ]
 
     HELP = """
@@ -54,6 +54,6 @@ This is a Telegram bot to generate **Pyrogram** and **Telethon** string sessions
 🐍 **Language:** https://www.python.org/  
 🛠 **Purpose:** Generate safe session strings for Telegram clients  
 
-📢 **Support & Updates:** https://t.me/ArchAssociation  
+📢 **Support & Updates:** https://t.me/JEHRELAxDEVELOPER
 👤 **Maintained by:** @ArchAssociation
     """
