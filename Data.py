@@ -26,7 +26,7 @@ Managed by @JEHRELA_PAPA
 
     buttons = [
         [InlineKeyboardButton("Start Generating Session", callback_data="generate")],
-        [InlineKeyboardButton("Maintained By", url="https://t.me/ArchAssociation")],
+        [InlineKeyboardButton("Maintained By", url="https://t.me/JEHRELAxDEVELOPER")],
         [
             InlineKeyboardButton("How to use me", callback_data="help"),
             InlineKeyboardButton("About", callback_data="about")
