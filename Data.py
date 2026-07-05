@@ -55,5 +55,5 @@ This is a Telegram bot to generate **Pyrogram** and **Telethon** string sessions
 🛠 **Purpose:** Generate safe session strings for Telegram clients  
 
 📢 **Support & Updates:** https://t.me/JEHRELAxDEVELOPER
-👤 **Maintained by:** @ArchAssociation
+👤 **Maintained by:** @JEHRELA_PAPA
     """
